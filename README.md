@@ -8,4 +8,6 @@ https://tinydew4.github.io/electron-ko/docs/guides/
 
 
 # run
+```
 >> node app.js
+```
